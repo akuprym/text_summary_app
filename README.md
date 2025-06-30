@@ -15,8 +15,8 @@ A Python app for summarizing text/files using the BART model, with support for P
 
 1. Clone the repo:
    ```
-   git clone https://github.com/yourusername/text-summarizer.git
-   cd text-summarizer
+   git clone https://github.com/akuprym/text_summary_app
+   cd text_summary_app
    ```
 
 ## Install requirements:
