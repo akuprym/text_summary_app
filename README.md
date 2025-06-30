@@ -1,10 +1,6 @@
 # Text Summarization with BART
 
-A Python app for summarizing text/files using Facebook's BART model, with support for PDF, DOCX, and TXT inputs.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-orange.svg)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red.svg)
+A Python app for summarizing text/files using the BART model, with support for PDF, DOCX, and TXT inputs.
 
 ## Features
 
@@ -12,6 +8,8 @@ A Python app for summarizing text/files using Facebook's BART model, with suppor
 - **Smart chunking**: Handles long documents with configurable overlap
 - **Downloadable results**: Save summaries as TXT files
 - **Progress tracking**: Real-time processing updates
+
+<img width="1364" alt="Screenshot 2025-06-30 at 05 37 21" src="https://github.com/user-attachments/assets/c131a84f-ab32-4c0f-88ae-9d831808d251" />
 
 ## Installation
 
